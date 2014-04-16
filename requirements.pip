@@ -1,0 +1,4 @@
+#bottle
+werkzeug
+#jinja2
+django==1.5.5
